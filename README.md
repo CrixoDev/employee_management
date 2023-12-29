@@ -18,7 +18,7 @@ This project was generated with Angular CLI version 17.0.8.
 1. 📥 Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/employee-management.git
+   git clone https://github.com/CrixoDev/employee_management.git
 2. 📂 Navigate to the project directory:
 
    ```bash
