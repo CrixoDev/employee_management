@@ -1,0 +1,15 @@
+h2 {
+  margin-left: 12%;
+}
+.container {
+  margin-left: 15%;
+  padding: 2px;
+  width: 75%;
+}
+.btn-success {
+  background-color: #f44336;
+  border-color: #f44336;
+}
+.mda-form-msg {
+  color: #f44336;
+}

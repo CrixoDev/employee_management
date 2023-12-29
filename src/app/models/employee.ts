@@ -1,5 +1,4 @@
 export class Employee {
-  position!: number;
   fullName!: string;
   phoneNumber!: number;
   email!: string;
@@ -7,5 +6,3 @@ export class Employee {
   maritalStatus!: string;
   gender!: string;
 }
-
-  
